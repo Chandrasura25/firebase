@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "asura-bank",
+    "staging": "cinema-57525",
+    "hosting": "asura-bank"
+  },
+  "targets": {}
+}
